@@ -1,0 +1,23 @@
+.grid{
+
+    border-radius: 10PX;
+    display: flex;
+    flex-wrap: wrap;
+    height: 404px;
+    width: 404px;
+    background-color: rgb(96 176 197 / 16%);
+    margin: auto;
+}
+
+.grid div{
+    border-radius: 10px 10px;
+    background: #5ae5fb61;
+    padding: 22px;
+    font-family: fantasy;
+    width: 46px;
+    height: 46px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 6px 4px 4px 6px;
+}
